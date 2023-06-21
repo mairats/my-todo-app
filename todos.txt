@@ -1,0 +1,6 @@
+add garbage
+pick up garbage
+clean trash
+organize room
+cook
+
